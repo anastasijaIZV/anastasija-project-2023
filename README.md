@@ -9,3 +9,4 @@ Saving all **customer** and **company** to database.
 
 Updates:
 30.11 - 10 **customer** created and saved to database.
+14.12. - 10 **customer** added to JSON database
